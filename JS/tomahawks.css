@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background: url("https://i0.hdslb.com/bfs/album/9c17b0e6e3b071b2a0b958fecf1b3e694a0665d2.png") no-repeat fixed;
+    background-size: 100%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
+}
+
+.pal{
+    font-size: 20px;
+
+}
+.none3{
+    display: none;
+}
+.none4{
+    display: none;
+}
+li{
+    list-style-type: none;
+}
+.carouselsize{
+    width:560px ;
+}
+.top9{
+   height: 90px;
+}
+.left50{
+    margin-left: 200px;
+}
+.twitter-box1{
+    width:560px;
+    height:315px;
+    position: relative;
+    margin-left: 70%;
+    margin-top: -38%;
+}
+.top300{
+    margin-top: -300px;
+    left: 60%
+}
+.top1{
+    margin-top: -20px;
+}
+.hover:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu>li>a{
+    color: palevioletred;
+}
+
+.pal1{
+    color: #DDA0DD;
+}
+.navmar0{
+    margin: 0px;
+}
+.top2{
+    height: 10px;
+}
+.chuangkou{
+    margin-left: 50px;
+    margin-top: 10%;
+}
+.centerimg{
+    margin-left: 33%;
+    margin-top: -30%;
+}
+.tab-content::-webkit-scrollbar { width: 0 !important }
+.topfooter{
+    height: 407px;
+}
